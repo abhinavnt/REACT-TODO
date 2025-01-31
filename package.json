@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://github.com/abhinavnt/REACT-TODO",
+  "homepage": "https://github.com/abhinavnt/REACT-TODO",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
